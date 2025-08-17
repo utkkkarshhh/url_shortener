@@ -6,7 +6,6 @@ A full-stack URL shortening service built with a Python (FastAPI) backend, a Rea
 
 * **URL Shortening:** Convert long URLs into short, unique codes.
 * **Redirection:** Redirect short URLs to their original long URLs.
-* **User-Specific URLs:** (Assumed based on `get_user_urls_manager.py`) Potentially allows users to manage their shortened URLs.
 * **Scalable Architecture:** Utilizes Docker for containerization and DynamoDB for efficient data storage.
 
 ## Technologies Used
